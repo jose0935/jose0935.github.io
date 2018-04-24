@@ -3,12 +3,12 @@
 
 <p><a href="https://jose0935.github.io/WEB/PracticaBootstrap2">Práctica #2. Tablas</a>
 
-Práctica #3 https://jose0935.github.io/WEB/PracticaBootstrap3
+<p><a href="https://jose0935.github.io/WEB/PracticaBootstrap3">Práctica #3. Formulario y Botones</a>
 
-Práctica #4 https://jose0935.github.io/WEB/PracticaBootstrap4
+<p><a href="https://jose0935.github.io/WEB/PracticaBootstrap4">Práctica #4. Imágenes</a>
 
-Práctica #5 https://jose0935.github.io/WEB/PracticaBootstrap5
+<p><a href="https://jose0935.github.io/WEB/PracticaBootstrap5">Práctica #5. Menú Responsivo</a>
 
-Práctica #6 https://jose0935.github.io/WEB/PracticaBootstrap6
+<p><a href="https://jose0935.github.io/WEB/PracticaBootstrap6">Práctica #6. Íconos</a>
 
-Práctica #7 
+<p><a href=" ">Práctica #7. Carousel</a>
