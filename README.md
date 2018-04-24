@@ -1,7 +1,7 @@
-# jose0935.github.io
-Práctica #1 https://jose0935.github.io/WEB/Practica%20Bootstrap.html
+<h1>Prácticas</h1>
+<p><a href="https://jose0935.github.io/WEB/Practica%20Bootstrap.html">Práctica #1. GRIDS</a>
 
-Práctica #2 https://jose0935.github.io/WEB/PracticaBootstrap2
+<p><a href="https://jose0935.github.io/WEB/PracticaBootstrap2">Práctica #2. Tablas</a>
 
 Práctica #3 https://jose0935.github.io/WEB/PracticaBootstrap3
 
