@@ -1,7 +1,5 @@
 <h1># Indice Practicas de Bootstrap</h1>
 
-José Guillermo Flores Gamboa
-
 <p><a href="https://jose0935.github.io/WEB/Practica%20Bootstrap.html">Práctica #1. GRIDS</a>
 
 <p><a href="https://jose0935.github.io/WEB/PracticaBootstrap2">Práctica #2. Tablas</a>
