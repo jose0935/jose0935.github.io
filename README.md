@@ -1,6 +1,6 @@
 <h1># Indice Practicas de Bootstrap</h1>
 
-<p><a href="https://jose0935.github.io/WEB/Practica%20Bootstrap.html">Práctica #1. GRIDS</a>
+<a href="https://jose0935.github.io/WEB/Practica%20Bootstrap.html">Práctica #1. GRIDS</a>
 
 <p><a href="https://jose0935.github.io/WEB/PracticaBootstrap2">Práctica #2. Tablas</a>
 
