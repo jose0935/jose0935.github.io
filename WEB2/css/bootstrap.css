@@ -3530,7 +3530,7 @@ tbody.collapse.in {
   font-size: 14px;
   text-align: left;
   list-style: none;
-  background-color: #fff;
+  background-color: #000 !important;
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
   border: 1px solid #ccc;
@@ -3547,7 +3547,7 @@ tbody.collapse.in {
   height: 1px;
   margin: 9px 0;
   overflow: hidden;
-  background-color: #e5e5e5;
+  background-color: #000 !important;
 }
 .dropdown-menu > li > a {
   display: block;
@@ -3555,14 +3555,14 @@ tbody.collapse.in {
   clear: both;
   font-weight: normal;
   line-height: 1.42857143;
-  color: #333;
+  color: #888 !important;
   white-space: nowrap;
 }
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
-  color: #262626;
+  color: white !important;
   text-decoration: none;
-  background-color: #f5f5f5;
+  background-color: #000 !important;
 }
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
@@ -6389,7 +6389,7 @@ button.close {
 }
 .carousel-indicators {
   position: absolute;
-  bottom: 10px;
+  bottom: 3px !important;
   left: 50%;
   z-index: 15;
   width: 60%;
@@ -6400,26 +6400,26 @@ button.close {
 }
 .carousel-indicators li {
   display: inline-block;
-  width: 10px;
-  height: 10px;
+  width: 30px !important;
+  height: 5px !important;
   margin: 1px;
   text-indent: -999px;
   cursor: pointer;
-  background-color: #000 \9;
-  background-color: rgba(0, 0, 0, 0);
-  border: 1px solid #fff;
-  border-radius: 10px;
+  background-color: #D6D6D6 !important;
+  border: 1px solid #D6D6D6 !important;
+  border-radius: 3px !important;
 }
 .carousel-indicators .active {
   width: 12px;
   height: 12px;
   margin: 0;
-  background-color: #fff;
+  border-color: #44D62C !important;
+  background-color: #44D62C !important;
 }
 .carousel-caption {
   position: absolute;
   right: 15%;
-  bottom: 20px;
+  top: 30px !important;
   left: 15%;
   z-index: 10;
   padding-top: 20px;
